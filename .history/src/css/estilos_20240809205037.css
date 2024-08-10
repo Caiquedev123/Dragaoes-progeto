@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: aqua;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.carrossel{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+.informacoes {
+    display: none;
+}
+
+.informacoes.ativa{
+    display: block;
+}
+
+.conteudo{
+    background-color: rgb(120, 61, 61);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    min-height: 100vh;
+}
+
+.informacoes h1 {
+    font-size: 35px;
+    color: white;
+    mar
+}
