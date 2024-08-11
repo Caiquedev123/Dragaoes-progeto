@@ -14,7 +14,7 @@ body {
 
 .informacoes {
 	display: none;
-	margin-top: 200px;
+	margin-top: 20px;
 }
 
 .informacoes.ativa {

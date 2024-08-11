@@ -1,0 +1,1 @@
+const botoesCarrossel = document.querySelectorAll()
